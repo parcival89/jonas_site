@@ -2,8 +2,9 @@
 Jonas leert programmeren
 
 ## Doel
-Hoe zet ik een simpele, hedendaagse site op
-1.versioned code
+Hoe zet ik een simpele, hedendaagse site op.
+
+1. versioned code
  a. versioning system
   - connecteert met repository
   - houdt lokale changes bij
