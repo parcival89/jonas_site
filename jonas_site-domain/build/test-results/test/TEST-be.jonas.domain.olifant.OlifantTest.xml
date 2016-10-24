@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="be.jonas.domain.olifant.OlifantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-24T19:50:36" hostname="hi68564.local" time="0.046">
+  <properties/>
+  <testcase name="roepNaam_geeftNaamVanOlifantInAllCaps" classname="be.jonas.domain.olifant.OlifantTest" time="0.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
