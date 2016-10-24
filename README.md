@@ -3,41 +3,41 @@ Jonas leert programmeren
 
 ## Doel
 Hoe zet ik een simpele, hedendaagse site op
-. versioned code
-.. versioning system
-... connecteert met repository
-... houdt lokale changes bij
-... regelt merges ?!? in de mate van het mogelijke
-. db als persisten storage systeem
-.. SQL, mongo, ...  ???
-. java als backend
-.. build tool
-... compiled code per module
-... draait lokale testen
-.... unit
-.... integration
-.... end-to-end
-... regelt packaging
-. javascript als frontend
-.. build tool
-... regelt packaging
-... draait testen
-... mogelijkheid tot lokaal serven van code --> speelt voor frontend server
-.. package manager
-... gaat packages afhalen van nexus
-. lokale of embedded deployment server
-.. tomcat
-.. jetty
-.. `...`
-. pushen naar versioning systeem
-. automatische build triggeren
-.. draait testen op andere machine
-.. deployen nieuwe versie online
+1.versioned code
+ a. versioning system
+  - connecteert met repository
+  - houdt lokale changes bij
+  - regelt merges ?!? in de mate van het mogelijke
+2. db als persisten storage systeem
+ a. SQL, mongo, ...  ???
+3. java als backend
+ a. build tool
+  - compiled code per module
+  - draait lokale testen
+    - unit
+    - integration
+    - end-to-end
+  - regelt packaging
+4. javascript als frontend
+ a. build tool
+  - regelt packaging
+  - draait testen
+  - mogelijkheid tot lokaal serven van code --> speelt voor frontend server
+ b. package manager
+  -  gaat packages afhalen van nexus
+5. lokale of embedded deployment server
+  a. tomcat
+  b. jetty
+  c. `...`
+6. pushen naar versioning systeem
+7. automatische build triggeren
+ a. draait testen op andere machine
+ b. deployen nieuwe versie online
 
 ### buiten de kwestie
-. docker
-. hudson/jenkins/jarvis
-. heroku
+1. docker
+2. hudson/jenkins/jarvis
+3. heroku
 
 ## Steps
 1. leer een versioning system kennen --> in jouw geval [git](https://git-scm.com/ "git website").
